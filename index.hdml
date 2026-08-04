@@ -7,7 +7,7 @@
 
   <style>
     * {
-      margin: 0;
+      margin: 0;Show pass
       padding: 0;
       box-sizing: border-box;
     }
@@ -39,7 +39,7 @@
       border-bottom: 2px solid #ff7300;
       flex-wrap: wrap;
     }
-
+Show pass
     nav a {
       color: white;
       text-decoration: none;
@@ -63,7 +63,7 @@
     main h2 {
       font-size: 2rem;
       margin-bottom: 15px;
-      color: #ff7300;
+      color: #ff7300;Show pass
     }
 
     main p {
